@@ -3,7 +3,7 @@ package com.srccodes.example;
 public class HelloWorld {
 
 	/**
-	 * @param args - Test
+	 * @param args - Test and test
 	 * Test
 	 */
 	public static void main(String[] args) {
