@@ -2,4 +2,5 @@ Welcome to our practice sessions
 git project
 today is setup webhooks.
 last commit
+Final update today is tuesday.
 end
